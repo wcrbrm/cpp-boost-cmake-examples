@@ -1,2 +1,10 @@
 build/
 bin/
+lib/
+CMakeFiles/
+Testing/
+*.log
+*.CMakeFiles
+*.cmake
+Makefile
+CMakeCache.txt
